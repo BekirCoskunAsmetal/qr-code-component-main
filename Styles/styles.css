@@ -1,0 +1,33 @@
+/****************Tags*********************/
+body
+{
+    background-color: beige;
+    
+}
+
+
+
+/***************Classes******************/
+.parent
+{
+    display: flex;
+    height: 500px;
+    align-items: center;
+    text-align: center;
+}
+.topContainer
+{
+    
+    margin:0 auto;
+}
+
+
+
+/******************IDS*********************/
+
+
+#qr
+{
+    border-radius: 5%;
+    width: 50%;
+}
