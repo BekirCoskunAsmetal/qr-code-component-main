@@ -4,7 +4,10 @@ body
     background-color: beige;
     
 }
-
+h2
+{
+    font-family:Roboto,sans serif;
+}
 
 
 /***************Classes******************/
@@ -14,10 +17,14 @@ body
     height: 500px;
     align-items: center;
     text-align: center;
+    width: 20%;
+   
 }
 .topContainer
 {
-    
+    border-radius: 5%;
+    background-color: white;
+    padding: 10px;
     margin:0 auto;
 }
 
@@ -29,5 +36,9 @@ body
 #qr
 {
     border-radius: 5%;
-    width: 50%;
+     
+}
+#mainText
+{
+    margin:0 auto;
 }
